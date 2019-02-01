@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Security Crap"
+title:  "External Resources"
 date:   2018-12-05 8:49:32 -0500
 categories: general
 ---
