@@ -28,3 +28,8 @@ categories: general
 
 [https://microcorruption.com/](Embeded CTF)
 
+## BugBounties
+
+[https://www.hackerone.com/](hackerone)
+
+[https://www.bugcrowd.com/](bugcroud)
