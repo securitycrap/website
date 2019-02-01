@@ -6,7 +6,7 @@ categories: general
 ---
 # General links
 
-## Good links:
+## Training/learning:
 
 [https://xss-game.appspot.com/](xss game)
 
